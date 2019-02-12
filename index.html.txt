@@ -18,7 +18,7 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("JAD-Studios-logo.jpg");
+  background-image: url("https://mail.google.com/mail/u/0/#inbox/FMfcgxwBVglfhRpkFgZjScGbmcZbhBzm?projector=1&messagePartId=0.1");
   min-height: 100%;
 }
 
