@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="icon" href="Jad-Studios-Logo.jpg">
+<link rel="shortcut icon" type="image/png" href="JAD-Studios-logo.jpg"/>
 </head>
 <title>JAD Studios</title>
 <meta charset="UTF-8">
